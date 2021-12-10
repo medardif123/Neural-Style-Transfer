@@ -4,3 +4,5 @@ Neural Style Transer consists of generating an image with the same content as th
 
 
 <img src=“https://github.com/medardif123/Neural-Style-Transfer/blob/main/paris.jpg” width="300" height="300"/>
+
+![alt text](https://github.com/medardif123/Neural-Style-Transfer/blob/main/paris.jpg)
