@@ -3,6 +3,4 @@ generating art with neural style transfer
 Neural Style Transer consists of generating an image with the same content as the input image called the content image but with the style of an other image called the style image as shown in the example below : 
 
 
-<img src=“https://github.com/medardif123/Neural-Style-Transfer/blob/main/paris.jpg” width="300" height="300"/>
-
-![alt text](https://github.com/medardif123/Neural-Style-Transfer/blob/main/paris.jpg)
+<img src="https://github.com/medardif123/Neural-Style-Transfer/blob/main/paris" width="100" height="100">
